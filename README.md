@@ -42,13 +42,14 @@
     </section>
     <section id="credits">
       <h2>Credits</h2>
-      <p>This single page design was created by [Your Name Here].</p>
+      <p>This single page design was created by [Hasan Çelik].</p>
     </section>
     <section id="license">
       <h2>License</h2>
       <p>This single page design is licensed under the MIT License.</p>
     </section>
   </main>
+  ![single-page-design](https://user-images.githubusercontent.com/123208180/221116723-92baa8f1-8ed4-46f3-9889-2ae3667a4f49.gif)
 </body>
 </html>
-![single-page-design](https://user-images.githubusercontent.com/123208180/221116723-92baa8f1-8ed4-46f3-9889-2ae3667a4f49.gif)
+
