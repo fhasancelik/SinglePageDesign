@@ -1,3 +1,8 @@
+![single-page-design](https://user-images.githubusercontent.com/123208180/221117144-f5d18d72-818a-4a47-bdb0-aa63be71c209.gif)
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,7 +54,6 @@
       <p>This single page design is licensed under the MIT License.</p>
     </section>
   </main>
-  ![single-page-design](https://user-images.githubusercontent.com/123208180/221116723-92baa8f1-8ed4-46f3-9889-2ae3667a4f49.gif)
 </body>
 </html>
 
